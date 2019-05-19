@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://puhoovuos.versaw.com/sitemap.xml
